@@ -11,12 +11,7 @@ Java Development Kit (JDK) 11 or higher
 Maven
 Internet connection
 Getting Started
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/dog-api-client.git
-cd dog-api-client
 Open the project in IntelliJ IDEA:
 
 Open IntelliJ IDEA.
